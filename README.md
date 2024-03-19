@@ -1,7 +1,7 @@
 # Distilling Datasets Into Less Than One Image
 Official PyTorch Implementation for the "Distilling Datasets Into Less Than One Image" paper.  
 <p align="center">
-    🌐 <a href="https://vision.huji.ac.il/podd/" target="_blank">Project</a> | 📃 <a href="#" target="_blank">Paper - Coming Soon...</a> <br>
+    🌐 <a href="https://vision.huji.ac.il/podd/" target="_blank">Project</a> | 📃 <a href="https://arxiv.org/abs/2403.12040" target="_blank">Paper</a> <br>
 </p>
 
 
@@ -18,7 +18,7 @@ ___
 > **Distilling Datasets Into Less Than One Image**<br>
 > Asaf Shul*, Eliahu Horwitz*, Yedid Hoshen<br>
 > *Equal contribution<br>
-> <a href="https://arxiv.org/" target="_blank">https://arxiv.org/ </a> <br>
+> <a href="https://arxiv.org/abs/2403.12040" target="_blank">https://arxiv.org/abs/2403.12040 </a> <br>
 >
 >**Abstract:** Dataset distillation aims to compress a dataset into a much smaller one 
 > so that a model trained on the distilled dataset achieves high accuracy. 
