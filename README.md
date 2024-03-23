@@ -140,7 +140,12 @@ The main change is replacing the distillation functionality in `src/base.py` and
 If you find this useful for your research, please use the following.
 
 ```
-Coming soon...
+@article{shul2024distilling,
+  title={Distilling Datasets Into Less Than One Image},
+  author={Shul, Asaf and Horwitz, Eliahu and Hoshen, Yedid},
+  journal={arXiv preprint arXiv:2403.12040},
+  year={2024}
+}
 ```
 
 ## Acknowledgments
