@@ -1,5 +1,11 @@
 # Distilling Datasets Into Less Than One Image
 Official PyTorch Implementation for the "Distilling Datasets Into Less Than One Image" paper.  
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/distilling-datasets-into-less-than-one-image/dataset-distillation-1ipc-on-cifar-10)](https://paperswithcode.com/sota/dataset-distillation-1ipc-on-cifar-10?p=distilling-datasets-into-less-than-one-image)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/distilling-datasets-into-less-than-one-image/dataset-distillation-1ipc-on-cifar-100)](https://paperswithcode.com/sota/dataset-distillation-1ipc-on-cifar-100?p=distilling-datasets-into-less-than-one-image)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/distilling-datasets-into-less-than-one-image/dataset-distillation-1ipc-on-cub-200-2011)](https://paperswithcode.com/sota/dataset-distillation-1ipc-on-cub-200-2011?p=distilling-datasets-into-less-than-one-image)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/distilling-datasets-into-less-than-one-image/dataset-distillation-1ipc-on-tinyimagenet)](https://paperswithcode.com/sota/dataset-distillation-1ipc-on-tinyimagenet?p=distilling-datasets-into-less-than-one-image)
+
 <p align="center">
     🌐 <a href="https://vision.huji.ac.il/podd/" target="_blank">Project</a> | 📃 <a href="https://arxiv.org/abs/2403.12040" target="_blank">Paper</a> <br>
 </p>
